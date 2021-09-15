@@ -1,5 +1,5 @@
 ### Hi I'm nang-ni 🥰
-<img src="https://img.shields.io/badge/nang-e-EA4AAA?style=flat-square&logo=GitHub Sponsors&logoColor=black"/></a> 
+<img src="https://img.shields.io/badge/nange-EA4AAA?style=flat-square&logo=GitHub Sponsors&logoColor=black"/></a> 
 <br>
 <br>
 <br>
