@@ -1,3 +1,4 @@
+<p align="center">
 ### Hi I'm nang-ni 🥰
 <img src="https://img.shields.io/badge/nange-EA4AAA?style=for-the-badge&logo=GitHub Sponsors&logoColor=black"/></a> 
 <br>
@@ -15,6 +16,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> &nbsp
 
+<p align="center">
 ![nang-e's GitHub stats](https://github-readme-stats.vercel.app/api?username=nang-e&show_icons=true&theme=omni)
 
 
