@@ -6,7 +6,10 @@
 <br>
 
 
-<img src="https://img.shields.io/badge/R Studio-#276DC3?style=flat-square&logo=R Studio&logoColor=white"/></a>
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-276DC3?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 
 <!--
 **nang-e/nang-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
