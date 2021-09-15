@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> &nbsp
 
-github-readme-stats.vercel.app/api?username=nang-e&show_icons=true&theme=dark
+GitHub Readme Stats: github-readme-stats.vercel.app/api?username=nang-e&show_icons=true&theme=dark
 
 <!--
 **nang-e/nang-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
