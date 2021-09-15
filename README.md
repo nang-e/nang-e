@@ -1,4 +1,3 @@
-### Hi I'm nang-ni 🥰
 <p align="center">
 </br>
 <img src="https://img.shields.io/badge/nange-EA4AAA?style=for-the-badge&logo=GitHub Sponsors&logoColor=black"/></a> 
