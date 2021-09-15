@@ -1,4 +1,12 @@
-### 
+### Hi I'm nang-ni 🥰
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<img src="https://img.shields.io/badge/R Studio-#276DC3?style=flat-square&logo=R Studio&logoColor=white"/></a>
 
 <!--
 **nang-e/nang-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
