@@ -18,8 +18,9 @@
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> &nbsp
 
 
-<p align="center"></p>
+<p align="center">
 ![nang-e's GitHub stats](https://github-readme-stats.vercel.app/api?username=nang-e&show_icons=true&theme=omni)
+</p>
 
 
 <!--
