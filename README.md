@@ -6,7 +6,8 @@
 
 Greetings! I am Nayeon from South Korea.  
 I hope to be a cool, awesome front-end developer.
-Sincerely, 
+Thanks for visiting my github page and best wishes for you :gift_heart:
+
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
