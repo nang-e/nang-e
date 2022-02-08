@@ -5,11 +5,11 @@
 <br>
 <br>
 
-<h3>
+<h4>
 Greetings! I am <b>Nayeon</b> from South Korea.  <br>
 I hope to be a cool, awesome <b>front-end developer</b>.  <br>
 Thanks for visiting my github page and best wishes for you :gift_heart:
-</h3>
+</h4>
   
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
