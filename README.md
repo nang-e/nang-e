@@ -3,7 +3,10 @@
 </br>
 <img src="https://img.shields.io/badge/nange-EA4AAA?style=for-the-badge&logo=GitHub Sponsors&logoColor=black"/></a> 
 <br>
-<br>
+
+Greetings! I am Nayeon from South Korea.  
+I hope to be a cool, awesome front-end developer.
+Sincerely, 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
