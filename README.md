@@ -3,9 +3,10 @@
 </br>
 <img src="https://img.shields.io/badge/nange-EA4AAA?style=for-the-badge&logo=GitHub Sponsors&logoColor=black"/></a> 
 <br>
+<br>
 
-Greetings! I am Nayeon from South Korea.  <br>
-I hope to be a cool, awesome front-end developer.  <br>
+Greetings! I am <b>Nayeon</b> from South Korea.  <br>
+I hope to be a cool, awesome <b>front-end developer</b>.  <br>
 Thanks for visiting my github page and best wishes for you :gift_heart:
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
