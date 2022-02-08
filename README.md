@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:ee9ca7,100:ffdde1&height=300&section=header&height=80%&text=Make it Count%20render&fontSize=90&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:ee9ca7,100:ffdde1&height=300&section=header&height=80%&text=Make%20it %20Count&fontSize=90&animation=twinkling" />
 <p align="center">
 </br>
 <img src="https://img.shields.io/badge/nange-EA4AAA?style=for-the-badge&logo=GitHub Sponsors&logoColor=black"/></a> 
