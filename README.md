@@ -39,6 +39,7 @@ Thanks for visiting my github page and best wishes for you :gift_heart:
 <a href="https://cutieny.tistory.com/" target="_blank">
 	<img src="https://img.shields.io/badge/Tistory-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
 </p>
+
 ![nang-e's GitHub stats](https://github-readme-stats.vercel.app/api?username=nang-e&show_icons=true&theme=omni)
 <br>
 <br>
