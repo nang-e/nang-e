@@ -31,13 +31,14 @@ Thanks for visiting my github page and best wishes for you :gift_heart:
 
 <h3 align="center"><b>📮 Contact Me! </b></h3>
 <br>
+<p align="center">
 <a href="mailto:miffy001018@gmail.com" target="_blank">
 	<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a> &nbsp
-<a href="ttps://blog.naver.com/miffy001018" target="_blank">
+<a href="https://blog.naver.com/miffy001018" target="_blank">
 	<img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"></a> &nbsp
 <a href="https://cutieny.tistory.com/" target="_blank">
 	<img src="https://img.shields.io/badge/Tistory-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
-
+</p>
 ![nang-e's GitHub stats](https://github-readme-stats.vercel.app/api?username=nang-e&show_icons=true&theme=omni)
 <br>
 <br>
