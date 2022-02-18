@@ -21,7 +21,7 @@ Thanks for visiting my github page and best wishes for you :gift_heart:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/R STUDIO-75AADB?style=flat-square&logo=RStudio&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Tableau-4B80B1?style=flat-square&logo=Tableau&logoColor=white"/></a> &nbsp
 
 <br>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a> &nbsp
