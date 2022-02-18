@@ -15,15 +15,31 @@ Thanks for visiting my github page and best wishes for you :gift_heart:
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/R STUDIO-75AADB?style=flat-square&logo=RStudio&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/R STUDIO-75AADB?style=flat-square&logo=RStudio&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> &nbsp
+
+<br>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> &nbsp
 <br>
 <br>
+
+<h3 align="center"><b>📮 Contact Me! </b></h3>
+<br>
+<a href="mailto:miffy001018@gmail.com" height="5" width="10" target="_blank">
+	<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<a>
+<a href="ttps://blog.naver.com/miffy001018" height="5" width="10" target="_blank">
+	<img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+<a>
+<a href="https://cutieny.tistory.com/" height="5" width="10" target="_blank">
+	<img src="https://img.shields.io/badge/Tistory-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+<a>
 
 ![nang-e's GitHub stats](https://github-readme-stats.vercel.app/api?username=nang-e&show_icons=true&theme=omni)
 <br>
