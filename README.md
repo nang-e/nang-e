@@ -33,10 +33,10 @@ Thanks for visiting my github page and best wishes for you :gift_heart:
 <br>
 <a href="mailto:miffy001018@gmail.com" height="5" width="10" target="_blank">
 	<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-<a>
+<a> &nbsp
 <a href="ttps://blog.naver.com/miffy001018" height="5" width="10" target="_blank">
 	<img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
-<a>
+<a> &nbsp
 <a href="https://cutieny.tistory.com/" height="5" width="10" target="_blank">
 	<img src="https://img.shields.io/badge/Tistory-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 <a>
