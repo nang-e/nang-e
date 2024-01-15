@@ -7,7 +7,7 @@
 
 <p align="center">
 Greetings! I am <b>Nayeon</b> from South Korea.  <br>
-I hope to be a cool, awesome <b>front-end developer</b>.  <br>
+I hope to be a cool, awesome <b>data scientist</b>.  <br>
 Thanks for visiting my github page and best wishes for you :gift_heart:
 
 <br>
